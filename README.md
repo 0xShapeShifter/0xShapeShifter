@@ -7,7 +7,7 @@
 
 
 
-ϟ Currently building a financial engine for web3 creators
+ϟ Currently building [a financial engine for web3 creators](https://cryptokudos.vercel.app)
 
 ϟ Recently shipped [ReadMe.Dev](https://readme-dev.vercel.app)
 
