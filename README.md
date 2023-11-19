@@ -8,6 +8,7 @@
 
 
 ϟ Currently building <a target="_blank" href="https://rhizomaa.vercel.app/">the new way to practice reading and experience books</a>, and <a target="_blank" href="https://www.0xshapeshifter.dev/productized">an experimental web design studio</a>
+
 ϟ Recently shipped <a target="_blank" href="[https://bg-snippets.vercel.app/](https://magic-bgs.vercel.app/)">Magical bgs</a> and <a target="_blank" href="https://readme-dev.vercel.app">ReadMe.Dev</a>
 
  ## Skills
